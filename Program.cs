@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Parcial1.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<ActorContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("ActorContext") ?? throw new InvalidOperationException("Connection string 'ActorContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

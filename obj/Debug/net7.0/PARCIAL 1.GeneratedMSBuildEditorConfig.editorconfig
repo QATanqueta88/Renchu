@@ -9,65 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PARCIAL_1
 build_property.RootNamespace = PARCIAL_1
-build_property.ProjectDir = c:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\PARCIAL 1\
+build_property.ProjectDir = C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\PARCIAL 1\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\PARCIAL 1
+build_property.MSBuildProjectDirectory = C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\PARCIAL 1
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Actor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Actor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Actor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Actor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Actor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Home/Index.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Home/Privacy.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Shared/Error.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/_ViewImports.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/_ViewStart.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-a7g3kxlxn6
-
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Shared/_Layout.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/PARCIAL 1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1bpizhyz4w
