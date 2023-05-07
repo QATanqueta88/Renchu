@@ -45,7 +45,7 @@ namespace PARCIAL_1.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Actor");
+                    b.ToTable("Actor", (string)null);
                 });
 #pragma warning restore 612, 618
         }

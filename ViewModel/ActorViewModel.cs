@@ -6,5 +6,5 @@ public class ActorViewModel{
 
     public List<Actor> Actors { get; set; } = new List<Actor>();
 
-    public string? NameFilter {get ; set; }
+    public string NameFilter {get ; set; }
 }

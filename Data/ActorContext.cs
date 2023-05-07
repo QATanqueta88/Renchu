@@ -15,5 +15,15 @@ namespace Parcial1.Data
         }
 
         public DbSet<PARCIAL_1.Models.Actor> Actor { get; set; } = default!;
+
+        public DbSet<PARCIAL_1.Models.Manager> Manager { get; set; } = default!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Manager>()
+            .HasMany(p => p.Actors)
+            .WithOne(p=>p.Manager)
+            .HasForeignKey(p=>p.ManagerId);
+        }
     }
 }
