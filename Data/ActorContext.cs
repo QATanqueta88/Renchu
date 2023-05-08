@@ -18,12 +18,14 @@ namespace Parcial1.Data
 
         public DbSet<PARCIAL_1.Models.Manager> Manager { get; set; } = default!;
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        public DbSet<PARCIAL_1.Models.Pelicula> Pelicula { get; set; } = default!;
+           protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Manager>()
-            .HasMany(p => p.Actors)
-            .WithOne(p=>p.Manager)
-            .HasForeignKey(p=>p.ManagerId);
+             modelBuilder.Entity<Actor>()
+            .HasMany(p => p.Peliculas)
+            .WithOne(p=> p.Actor)
+            .HasForeignKey(p => p.ActorId);
+         
         }
     }
 }

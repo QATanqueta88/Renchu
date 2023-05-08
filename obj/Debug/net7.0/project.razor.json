@@ -18650,6 +18650,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\No usar\\Documents\\HERRAMIENTAS DE PROGRAMACION\\PARCIAL 1\\Views\\Pelicula\\Create.cshtml",
+      "TargetPath": "Views\\Pelicula\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\No usar\\Documents\\HERRAMIENTAS DE PROGRAMACION\\PARCIAL 1\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -18680,6 +18685,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\No usar\\Documents\\HERRAMIENTAS DE PROGRAMACION\\PARCIAL 1\\Views\\Pelicula\\Index.cshtml",
+      "TargetPath": "Views\\Pelicula\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\No usar\\Documents\\HERRAMIENTAS DE PROGRAMACION\\PARCIAL 1\\Views\\Actor\\Details.cshtml",
       "TargetPath": "Views\\Actor\\Details.cshtml",
       "FileKind": "mvc"
@@ -18700,8 +18710,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\No usar\\Documents\\HERRAMIENTAS DE PROGRAMACION\\PARCIAL 1\\Views\\Pelicula\\Delete.cshtml",
+      "TargetPath": "Views\\Pelicula\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\No usar\\Documents\\HERRAMIENTAS DE PROGRAMACION\\PARCIAL 1\\Views\\Pelicula\\Details.cshtml",
+      "TargetPath": "Views\\Pelicula\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\No usar\\Documents\\HERRAMIENTAS DE PROGRAMACION\\PARCIAL 1\\Views\\Actor\\Create.cshtml",
       "TargetPath": "Views\\Actor\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\No usar\\Documents\\HERRAMIENTAS DE PROGRAMACION\\PARCIAL 1\\Views\\Pelicula\\Edit.cshtml",
+      "TargetPath": "Views\\Pelicula\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
